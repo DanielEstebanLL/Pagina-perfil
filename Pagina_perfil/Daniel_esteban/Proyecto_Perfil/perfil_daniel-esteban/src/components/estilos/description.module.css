@@ -1,0 +1,29 @@
+.container1 {
+    display: flex;
+
+}
+
+.photo {
+    border-radius: 50%;
+    width: 150px;
+    margin-left: 60px;
+    margin-top: 40px;
+    box-shadow: 0 0 10px rgba(252, 241, 241, 0.938);
+}
+
+.container_text {
+    margin-left: 40px;
+}
+
+.title {
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 0 0 10px rgba(252, 241, 241, 0.938);
+}
+
+.complement {
+    font-size: 35px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 0 0 10px rgba(252, 241, 241, 0.938);
+    margin-top: -35px;
+}

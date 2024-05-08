@@ -1,0 +1,21 @@
+.title_exp{
+    margin-left: 60px;
+    font-family: 'Pacifico', cursive;
+    color: white;
+    font-size: 50px;
+    font-family: 'Pacifico', cursive;
+    text-shadow: 0 0 10px rgba(252, 241, 241, 0.938);
+}
+.container {
+    margin-left: 60px;
+    font-family: 'Pacifico', cursive;
+    color: white;
+}
+.btn {
+    margin-left: 60px;
+    font-family: 'Pacifico', cursive;
+    color: rgb(15, 13, 13);
+}
+.fondo{
+    background-color: black;
+}
